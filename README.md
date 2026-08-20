@@ -3,15 +3,22 @@ Machine learning project for multiclass music genre classification using preproc
 
 ## Project Structure
 
+
+
+```text
 music-genre-classification/
-│── data/
+├── data/
 │   ├── raw/
 │   └── processed/
 │       ├── train_processed.csv
 │       └── test_processed.csv
-│── notebooks/
+├── notebooks/
 │   ├── 01_data_analysis.ipynb
 │   └── 02_preprocessing.ipynb
+├── README.md
+├── LICENSE
+└── requirements.txt
+```
 
 ## Data Preprocessing
 
